@@ -1,0 +1,179 @@
+# Site Settings
+locale                   : "en-US"
+title                    : "Nguyen Minh Loi"
+title_separator          : "-"
+name                     : &name "Nguyen Minh Loi"
+description              : &description "AI Researcher at Trivita AI | VNUHCM-University of Science. Interactive multimodal systems, generative video, and LLM alignment."
+url                      : https://mf0212.github.io
+baseurl                  : ""
+repository               : "mf0212/mf0212.github.io"
+teaser                   :
+breadcrumbs              : false
+words_per_minute         : 160
+comments:
+  provider               :
+atom_feed:
+  path                   :
+read_more                : "enabled"
+future                   : true
+
+# SEO
+google_site_verification : "3hdu0GcCfjZ6WbPpApjcdcEGjsCPDcDn1QLtBm-DRBg"
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social Sharing
+twitter:
+  username               :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : "site-logo.png"
+
+social:
+  type                   : Person
+  name                   : *name
+  links:
+    - "https://github.com/mf0212"
+    - "https://www.linkedin.com/in/nguyenminhloimf/"
+    - "https://scholar.google.com/citations?user=f_btpZwAAAAJ&hl=en"
+
+# Analytics
+analytics:
+  provider               : false
+
+
+# Site Author
+author:
+  name             : "Nguyen Minh Loi"
+  avatar           : "mf0212.jpg"
+  bio              : "AI Researcher at <a style='color: black;' href='https://trivita.ai/'>Trivita AI</a>. Honor Program, VNUHCM-University of Science. Researching grounded, physics-aware generative AI and human-AI co-creation."
+  location         : "Ho Chi Minh City, Vietnam"
+  employer         :
+  googlescholar    : "https://scholar.google.com/citations?user=f_btpZwAAAAJ&hl=en"
+  email            : "22120189@student.hcmus.edu.vn"
+  uri              :
+  github           : "mf0212"
+  linkedin         : "nguyenminhloimf"
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - "*.pdf"
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Asia/Bangkok
+
+
+# Plugins
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+whitelist:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
