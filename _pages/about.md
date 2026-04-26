@@ -16,7 +16,7 @@ Email: [22120189@student.hcmus.edu.vn](mailto:22120189@student.hcmus.edu.vn)
 
 ## Research interests
 
-My research focuses on building grounded, physics-aware generative AI for trustworthy human-AI collaboration. I am particularly interested in Human-AI Co-Creative Systems, Physics-Aware Generative Video, and LLM Alignment, and I am excited to explore related directions that enhance the controllability, reliability, and practical impact of modern generative AI.
+My research focuses on building grounded, physics-aware generative AI for trustworthy human-AI collaboration. I am particularly interested in **Human-AI Co-Creative Systems, Physics-Aware Generative Video, and LLM Alignment**, and I am excited to explore related directions that enhance the controllability, reliability, and practical impact of modern generative AI.
 
 I'm actively seeking PhD positions in Computer Science / AI for Fall 2026 and excited to collaborate on impactful research! 🚀
 
