@@ -18,13 +18,7 @@ I'm applying for PhD positions in Computer Science / AI for Fall 2026. If your g
 
 ## Research interests
 
-I work on grounded, physics-aware generative models. The shared thread across my projects is that the system reasons over an explicit structure (a scene graph, an event graph, a physical constraint set) before it generates, so the output stays controllable and faithful to what was planned.
-
-A few directions I've been working on:
-
-- Human-AI co-creative systems for storytelling, where the user edits an event graph and the model fills in prose, illustration, or video that respects it.
-- Physics-aware video generation through agentic planning and graph-guided optimization.
-- LLM alignment in low-resource, high-stakes settings. At Trivita AI I work on clinical reasoning with GRPO, DPO, RLHF, and PEFT methods (LoRA, QLoRA, DoRA).
+I work on grounded, physics-aware generative models. The shared thread across my projects is that the system reasons over an explicit structure (a scene graph, an event graph, a physical constraint set) before it generates, so the output stays controllable and faithful to what was planned. Three directions in particular: **human-AI co-creative systems for storytelling**, where the user edits an event graph and the model fills in prose, illustration, or video that respects it; **physics-aware video generation** through agentic planning and graph-guided optimization; and **LLM alignment for low-resource, high-stakes settings**, with my work at Trivita AI focused on clinical reasoning.
 
 ## Recent news
 
