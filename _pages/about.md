@@ -10,17 +10,15 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to my homepage! I'm Nguyen Minh Loi, a final-year undergraduate in the [Honor Program](https://www.hcmus.edu.vn/) at VNUHCM-University of Science, where I am fortunate to be advised by [Dr. Le Trung Nghia](https://selab.hcmus.edu.vn/) at the Software Engineering Laboratory (SELab). I currently work as an AI Researcher at [Trivita AI](https://trivita.ai/), where I build Vietnamese medical foundation models for symptom-elicitation in clinical triage. I will graduate with a B.S. in Computer Science (Summa Cum Laude, GPA 3.84/4.00) in June 2026.
-
-In summer 2025, I was an International Research Fellow at the [NUS Young Fellowship Programme](https://nus.edu.sg/), a competitive program focused on AI research and PhD preparation.
+Welcome to my homepage! I'm Nguyen Minh Loi 👋. I am currently an AI Researcher at [Trivita AI](https://trivita.ai/) and a final-year undergraduate in the [Honor Program](https://www.hcmus.edu.vn/) at VNUHCM-University of Science, where I am fortunate to be advised by [Dr. Le Trung Nghia](https://selab.hcmus.edu.vn/) at the [Software Engineering Laboratory (SELab)](https://selab.hcmus.edu.vn/). In summer 2025, I was an International Research Fellow at the [NUS Young Fellowship Programme](https://nus.edu.sg/), a competitive program focused on AI research and PhD preparation. I will graduate with a B.S. in Computer Science (Summa Cum Laude) in October 2026.
 
 Email: [22120189@student.hcmus.edu.vn](mailto:22120189@student.hcmus.edu.vn)
 
 ## Research interests
 
-My research focuses on building grounded generative models that reason over explicit structure (scene graphs, event graphs, physical constraints) before generating, so that outputs stay controllable and faithful to what was planned. I am particularly interested in **Human-AI Co-Creative Systems** (graph-based interaction for collaborative storytelling and personalized narrative generation), **Physics-Aware Generative Video** (agentic planning and graph-guided optimization), and **LLM Alignment for High-Stakes Settings** (such as clinical reasoning and medical AI).
+My research focuses on building grounded, physics-aware generative AI for trustworthy human-AI collaboration. I am particularly interested in Human-AI Co-Creative Systems, Physics-Aware Generative Video, and LLM Alignment, and I am excited to explore related directions that enhance the controllability, reliability, and practical impact of modern generative AI.
 
-I'm actively seeking PhD positions in Computer Science / AI for Fall 2026 and excited to collaborate on impactful research!
+I'm actively seeking PhD positions in Computer Science / AI for Fall 2026 and excited to collaborate on impactful research! 🚀
 
 ## Recent news
 
