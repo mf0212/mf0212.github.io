@@ -67,20 +67,6 @@ Xuan-Vu Le\*, **Minh-Loi Nguyen\***, Khanh-Duy Le, Minh-Triet Tran, Trung-Nghia 
 **[E.2]** [A Web-Based Dynamic Nomogram to Predict the Risk of Methicillin-Resistant Staphylococcal Infection in Patients with Pneumonia](https://doi.org/10.3390/diagnostics14060633). Diagnostics 14(6), 633, 2024.  
 Van Duong-Thi-Thanh, Binh Truong-Quang, Phu Tran-Nguyen-Trong, Mai Le-Phuong, Phu Truong-Thien, Dung Lam-Quoc, Thong Dang-Vu, **Minh-Loi Nguyen**, Vu Le-Thuong.
 
-## Selected honors and awards
-
-- 1st Prize, National Champion, Vietnam Student AI Olympiad (Nov to Dec 2025)
-- Marvell Vietnam Excellence Scholarship (Apr 2026)
-- Google Student Ambassador, Google (Feb 2026)
-- Jensen Huang Scholarship, NVIDIA VRDC (Jan 2026)
-- EM Scholarship, PhD Mentorship Program (Nov 2025)
-- Lawrence S. Ting Scholarship, full tuition (Oct 2025)
-- Top 5 Finalist, EVENTA Grand Challenge, ACM Multimedia (Jul 2025)
-- 3rd Prize (Poster and 3MT), NUS Young Fellowship (Jul 2025)
-- Best Researcher of the Year, Trivita AI (2025)
-- 3rd Runner-Up (AI Track), SoICT Hackathon, Samsung-sponsored (Dec 2024)
-- Excellent Scholarship, VNUHCM-University of Science (2022 to 2023)
-
 ## Professional service
 
 Conference Reviewer: ACM CHI 2026.

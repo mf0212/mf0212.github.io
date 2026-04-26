@@ -7,6 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  /* Make paper-title and DOI/arXiv links visibly blue inside the publication list,
+     matching the link colour used on the homepage. */
+  .page__content a,
+  .archive a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  .page__content a:hover,
+  .archive a:hover {
+    color: #003a7a;
+    text-decoration: underline;
+  }
+</style>
+
 (*) denotes equal or significant contribution.
 
 A current list is also maintained on my [Google Scholar](https://scholar.google.com/citations?user=f_btpZwAAAAJ&hl=en) profile.
