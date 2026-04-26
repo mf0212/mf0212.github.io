@@ -8,16 +8,15 @@ author_profile: true
 {% include base_path %}
 
 <style>
-  /* Make paper-title and DOI/arXiv links visibly blue inside the publication list,
-     matching the link colour used on the homepage. */
+  /* Match the homepage link colour ($link-color = $info-color = #52adc8 in _sass/_variables.scss). */
   .page__content a,
   .archive a {
-    color: #0066cc;
+    color: #52adc8;
     text-decoration: none;
   }
   .page__content a:hover,
   .archive a:hover {
-    color: #003a7a;
+    color: #3e8294;
     text-decoration: underline;
   }
 </style>
