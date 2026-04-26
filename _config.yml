@@ -162,7 +162,7 @@ timezone: Asia/Bangkok
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jemoji
