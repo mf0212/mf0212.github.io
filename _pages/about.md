@@ -10,15 +10,17 @@ redirect_from:
 
 {% include base_path %}
 
-I'm a final-year undergraduate in the [Honor Program](https://www.hcmus.edu.vn/) at VNUHCM-University of Science, advised by [Dr. Le Trung Nghia](https://selab.hcmus.edu.vn/) at the Software Engineering Laboratory (SELab). Day-to-day I work as an AI Researcher at [Trivita AI](https://trivita.ai/), where I build Vietnamese medical foundation models for symptom-elicitation in clinical triage. I'll graduate with a B.S. in Computer Science (Summa Cum Laude, GPA 3.84/4.00) in June 2026.
+Welcome to my homepage! I'm Nguyen Minh Loi, a final-year undergraduate in the [Honor Program](https://www.hcmus.edu.vn/) at VNUHCM-University of Science, where I am fortunate to be advised by [Dr. Le Trung Nghia](https://selab.hcmus.edu.vn/) at the Software Engineering Laboratory (SELab). I currently work as an AI Researcher at [Trivita AI](https://trivita.ai/), where I build Vietnamese medical foundation models for symptom-elicitation in clinical triage. I will graduate with a B.S. in Computer Science (Summa Cum Laude, GPA 3.84/4.00) in June 2026.
 
-In summer 2025 I was an International Research Fellow at the [NUS Young Fellowship Programme](https://nus.edu.sg/), a competitive program focused on AI research and PhD preparation.
+In summer 2025, I was an International Research Fellow at the [NUS Young Fellowship Programme](https://nus.edu.sg/), a competitive program focused on AI research and PhD preparation.
 
-I'm applying for PhD positions in Computer Science / AI for Fall 2026. If your group works on anything below, I'd love to hear from you at [22120189@student.hcmus.edu.vn](mailto:22120189@student.hcmus.edu.vn).
+Email: [22120189@student.hcmus.edu.vn](mailto:22120189@student.hcmus.edu.vn)
 
 ## Research interests
 
-I work on grounded, physics-aware generative models. The shared thread across my projects is that the system reasons over an explicit structure (a scene graph, an event graph, a physical constraint set) before it generates, so the output stays controllable and faithful to what was planned. Three directions in particular: **human-AI co-creative systems for storytelling**, where the user edits an event graph and the model fills in prose, illustration, or video that respects it; **physics-aware video generation** through agentic planning and graph-guided optimization; and **LLM alignment for low-resource, high-stakes settings**, with my work at Trivita AI focused on clinical reasoning.
+My research focuses on building grounded generative models that reason over explicit structure (scene graphs, event graphs, physical constraints) before generating, so that outputs stay controllable and faithful to what was planned. I am particularly interested in **Human-AI Co-Creative Systems** (graph-based interaction for collaborative storytelling and personalized narrative generation), **Physics-Aware Generative Video** (agentic planning and graph-guided optimization), and **LLM Alignment for High-Stakes Settings** (such as clinical reasoning and medical AI).
+
+I'm actively seeking PhD positions in Computer Science / AI for Fall 2026 and excited to collaborate on impactful research!
 
 ## Recent news
 
