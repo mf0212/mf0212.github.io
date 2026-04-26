@@ -42,27 +42,33 @@ A few directions I've been working on:
 
 ## Publications
 
-(*) denotes equal or significant contribution.
+(*) denotes equal or significant contribution. A formal list grouped by submission type is on the [Publications page](/publications/).
 
-**[P.1]** [StoryCrafter: A Graph-Based Co-Creative AI System Supporting Parental Story Re-Authoring](https://doi.org/10.1145/3772363.3798778). Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI), 2026.  
+### Interactive Multimodal Systems and Co-Creative AI
+
+**[M.1]** [StoryCrafter: A Graph-Based Co-Creative AI System Supporting Parental Story Re-Authoring](https://doi.org/10.1145/3772363.3798778). Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI), 2026.  
 Xuan-Vu Le\*, **Minh-Loi Nguyen\***, Khanh-Duy Le, Minh-Triet Tran, Trung-Nghia Le.
 
-**[P.2]** GraphStory: Collaborative Story Writing through Event-Based Narrative Editing. Under review at ACM UIST, 2026.  
+**[M.2]** GraphStory: Collaborative Story Writing through Event-Based Narrative Editing. Under review at ACM UIST, 2026.  
 **Minh-Loi Nguyen\***, Xuan-Vu Le\*, Khanh-Duy Le, Minh-Triet Tran, Trung-Nghia Le.
 
-**[P.3]** Physics-Aware Video Generation via Agentic Planning and Graph-Guided Optimization. Under review at ECCV, 2026.  
-**Minh-Loi Nguyen\***, Xuan-Vu Le\*, Thanh-Toan Do, Tam V. Nguyen, Minh-Triet Tran, Trung-Nghia Le.
-
-**[P.4]** [TaleForge: Interactive Multimodal System for Personalized Story Creation](https://arxiv.org/abs/2506.21832). Under review at IEEE Transactions on Human-Machine Systems (THMS).  
+**[M.3]** [TaleForge: Interactive Multimodal System for Personalized Story Creation](https://arxiv.org/abs/2506.21832). Under review at IEEE Transactions on Human-Machine Systems (THMS).  
 **Minh-Loi Nguyen\***, Quang-Khai Le\*, Tam V. Nguyen, Minh-Triet Tran, Trung-Nghia Le.
 
-**[P.5]** Hierarchical Multi-Modal Retrieval for Knowledge-Grounded News Image Captioning. Proceedings of the 12th International Symposium on Information and Communication Technology (SoICT), 2025.  
+**[M.4]** Hierarchical Multi-Modal Retrieval for Knowledge-Grounded News Image Captioning. Proceedings of the 12th International Symposium on Information and Communication Technology (SoICT), 2025.  
 **Minh-Loi Nguyen\***, Xuan-Vu Le\*, Long-Bao Nguyen, Hoang-Bach Ngo, Trung-Nghia Le.
 
-**[P.6]** [Hybrid Compression: Integrating Pruning and Quantization for Optimized Neural Networks](https://doi.org/10.1007/978-981-96-4282-3_5). Proceedings of the 11th International Symposium on Information and Communication Technology (SoICT), 2024.  
+### Generative Video
+
+**[V.1]** Physics-Aware Video Generation via Agentic Planning and Graph-Guided Optimization. Under review at ECCV, 2026.  
+**Minh-Loi Nguyen\***, Xuan-Vu Le\*, Thanh-Toan Do, Tam V. Nguyen, Minh-Triet Tran, Trung-Nghia Le.
+
+### Efficient and Medical AI
+
+**[E.1]** [Hybrid Compression: Integrating Pruning and Quantization for Optimized Neural Networks](https://doi.org/10.1007/978-981-96-4282-3_5). Proceedings of the 11th International Symposium on Information and Communication Technology (SoICT), 2024.  
 **Minh-Loi Nguyen\***, Long-Bao Nguyen\*, Van-Hieu Huynh\*, Trung-Nghia Le.
 
-**[P.7]** [A Web-Based Dynamic Nomogram to Predict the Risk of Methicillin-Resistant Staphylococcal Infection in Patients with Pneumonia](https://doi.org/10.3390/diagnostics14060633). Diagnostics 14(6), 633, 2024.  
+**[E.2]** [A Web-Based Dynamic Nomogram to Predict the Risk of Methicillin-Resistant Staphylococcal Infection in Patients with Pneumonia](https://doi.org/10.3390/diagnostics14060633). Diagnostics 14(6), 633, 2024.  
 Van Duong-Thi-Thanh, Binh Truong-Quang, Phu Tran-Nguyen-Trong, Mai Le-Phuong, Phu Truong-Thien, Dung Lam-Quoc, Thong Dang-Vu, **Minh-Loi Nguyen**, Vu Le-Thuong.
 
 ## Selected honors and awards
